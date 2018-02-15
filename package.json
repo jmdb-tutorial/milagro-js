@@ -1,0 +1,22 @@
+{
+  "name": "milagro",
+  "version": "1.0.0",
+  "description": "Tutorial for the milagro js framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jmdb-tutorial/milagro-js.git"
+  },
+  "keywords": [
+    "crypto"
+  ],
+  "author": "Jim Barritt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmdb-tutorial/milagro-js/issues"
+  },
+  "homepage": "https://github.com/jmdb-tutorial/milagro-js#readme"
+}
